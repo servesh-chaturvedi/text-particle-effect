@@ -65,7 +65,7 @@ class Effect {
     })
 
     this.particles = []
-    this.gap = 3
+    this.gap = 2
     this.mouse = {
       radius: 20000,
       x: 0,
